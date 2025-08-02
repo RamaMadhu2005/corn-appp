@@ -5,40 +5,36 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Puttu Biryani
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Rama - Aisat
+
 
 ### Project Description
-[2-3 lines about what your project does]
+Corngame is a chaotic desktop prank where your keyboard keys are shuffled randomly, a floating corn stalk dances in the background, and the Pink Panther theme sets the vibe. Your only way out is to decode a mysterious phrase—or suffer.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Ever felt too productive or too focused? We believe that’s the problem. Brains shouldn’t be at peace when they can be confused for fun!
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+A surprise key-masher that scrambles your keyboard every few minutes, plays suspicious music, and displays mysterious quotes while corn slowly spins across your screen. True productivity killer. 🌽
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+•	Languages: Python
+	•	Frameworks: Pygame
+	•	Libraries: Pynput, Random, OS
+	•	Tools: VS Code, Terminal, Git
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
-
+None (unless you count your sanity)
 ### Implementation
 For Software:
 # Installation
-[commands]
+load python file and run
 
 # Run
 [commands]
@@ -47,50 +43,17 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+only one window
+https://drive.google.com/file/d/1E4r3pIcq3RbbDdYn5Jx3yyft-VqLJkrH/view?usp=drivesdk
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+https://drive.google.com/file/d/1aoc4EfYvGYrMfijtnE1evL8g48bk7ScC/view?usp=drivesdk
 
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Rama Madhusudhanan: Idea, frontend chaos, full-screen prank logic, basically everythingp
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
